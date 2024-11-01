@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="128" height="125" rx="11"></rect>
+        <filter x="-1.2%" y="-1.2%" width="102.3%" height="104.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.965919384   0 0 0 0 0.348013387   0 0 0 0 0.140396971  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FF8258" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Group-10" transform="translate(17.000000, 17.000000)" stroke="#FFFFFF">
+            <circle id="Oval" stroke-width="2.5999999" opacity="0.400000006" cx="46.7999983" cy="46.7999983" r="46.7999983"></circle>
+            <polyline id="Path" stroke-width="5.19999981" stroke-linecap="round" stroke-linejoin="round" points="56.7272706 25.999999 64.763634 34.0363624 56.7272706 42.0727257"></polyline>
+            <path d="M28.599999,46.0909074 L28.599999,42.0727257 C28.599999,37.6343648 32.1980014,34.0363624 36.6363623,34.0363624 L64.763634,34.0363624" id="Path" stroke-width="5.19999981" opacity="0.699999988" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path" stroke-width="5.19999981" stroke-linecap="round" stroke-linejoin="round" points="36.6363623 70.1999974 28.599999 62.1636341 36.6363623 54.1272707"></polyline>
+            <path d="M64.763634,50.1090891 L64.763634,54.1272707 C64.763634,58.5656317 61.1656316,62.1636341 56.7272706,62.1636341 L28.599999,62.1636341" id="Path" stroke-width="5.19999981" opacity="0.600000024" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
